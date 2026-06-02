@@ -1,0 +1,28 @@
+1.Map function
+
+Syntax:map(function,iterable..)
+
+Parameters of map function:
+	• function: The function or lambda expression you want to execute for each element in the iterable.
+	• iterable: One or more iterables (lists, tuples, sets, etc.) whose elements will be passed to the function.
+	💡 Note: map() returns a map object (which is an iterator). To see the actual results as a list, you need to pass it into the list() function.
+
+2.Filter function
+3.Zip function
+
+OOPS Concepts
+
+Class: 
+Objects
+
+Inheritance: child class inherits from parent class
+Multiclass inheritance :child class inherits from multiple class
+Multilevel inheritance
+
+Abstraction
+Encapsulation
+Polymorphism
+
+Class keyword is used to define a class
+Variables inside class is called Attributes
+

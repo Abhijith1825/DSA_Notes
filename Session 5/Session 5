@@ -1,0 +1,12 @@
+Python is prefered using snake case
+
+SETTINGS:
+
+autosave -> onwindowchange
+Pylance type checking -> turn on
+Telemetry -> personal preference
+
+For creating virtual environment we can use venv
+
+Collab is used for running programs
+
